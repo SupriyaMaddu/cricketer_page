@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-section {
+    background-size: cover;
+    background-color: #fb4e71;
+    height: 30vh;
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.top-section-text-container {
+    width: 250px;
+    margin-right: 20px;
+}
+
+.top-section-name {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.top-section-content {
+    font-size: 15px;
+    color: #ffffff;
+
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    height: 90vh;
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.heading1 {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.first-section {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.first-section-card {
+    padding: 15px;
+}
+
+.first-section-heading {
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.first-section-content {
+    font-size: 15px;
+    color: #888888;
+}
+
+.heading2 {
+    font-size: 17px;
+    color: #323f4b;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.card-container {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.content {
+    font-size: 12px;
+    color: #323f4b;
+}
